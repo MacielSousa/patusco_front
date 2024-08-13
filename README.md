@@ -47,6 +47,6 @@ npm run build
 pnpm build
 ```
 
-### Customize configuration
+### Complementary Project
 
-See [Configuration Reference](https://vitejs.dev/config/).
+[Complementary Project](https://github.com/MacielSousa/patusco_api).
